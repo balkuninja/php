@@ -1,3 +1,3 @@
-# $utime = date('Y-m-d G:m:s');
+# $utime = date('Y-m-d G:i:s');
 
 # utime datetime NOT NULL
